@@ -117,3 +117,4 @@ function test() {
     ssml: false,
   });
 }
+test();
